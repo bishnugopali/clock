@@ -1,0 +1,15 @@
+body {
+    background-color:  rgb(22, 185, 226);
+    background: linear-gradient(90deg, rgb(95, 190, 225), rgb(16, 141, 224));
+  }
+
+
+#container{ 
+    font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
+     
+    text-align:center; 
+} 
+
+h1{
+    font-size: 4rem;
+}
